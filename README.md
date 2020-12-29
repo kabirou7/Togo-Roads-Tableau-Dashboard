@@ -2,4 +2,4 @@
 
 ## I also provide the dataset used for creating this dashboard which is in Shapefile format.
 
-![Dashboard](togo roads.png)
+![Dashboard](/Togo-Roads-Tableau-Dashboard/togo roads.png)
